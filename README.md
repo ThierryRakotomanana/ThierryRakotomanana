@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thierryrakotomanana&" alt="thierryrakotomanana" /></p>
 
-# sneak eating my contribution graph
+<p>sneak eating my contribution graph</p>
 ![snake gif](https://github.com/ThierryRakotomanana/ThierryRakotomanana/blob/output/github-contribution-grid-snake.gif)
