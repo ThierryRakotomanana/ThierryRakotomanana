@@ -1,3 +1,5 @@
+<p align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e82f7654ac26b7a916afb71e3a35843c70a0682&rid=giphy.gif&ct=g" /></p>
+
 <h1 align="center">Hi 👋, I'm Thierry Rakotomanana</h1>
 <h3 align="center">A passionate JavaScript developer from Madagascar</h3>
 
