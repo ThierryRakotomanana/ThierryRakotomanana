@@ -22,12 +22,13 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40"/> &nbsp;
             <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40"/>&nbsp;&nbsp;&nbsp; -->
             </div>
-    </tr>
-    <tr>
-        <div align = "center">
-            <h2>Tools</h2>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
-        </div>
+        <td>
+            <div align = "center">
+                <h2>Tools</h2>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitgit-plain-wordmark.svg"alt="git" width="40"/>&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
+            </div>
+        </td>
     </tr>
 </table>
