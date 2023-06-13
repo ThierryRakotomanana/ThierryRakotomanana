@@ -7,7 +7,7 @@
               <div id="badges" align = "center">
                 <a href="https://web.facebook.com/prosperthierry.rakotomanana"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="facebook"></a>
                 <a href="https://github.com/ThierryRakotomanana"><img src="https://img.shields.io/badge/Github-orange?logo=github&logoColor=black&style=for-the-badge"alt="Github"></a> <br>
-                <a><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a> <br>
+                <a href="https://www.linkedin.com/in/prosper-thierry-rakotomanana-1a33b215b"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"></a> <br>
                 <a href="http://ThierryRakt@gmail.com"><img src="https://img.shields.io/badge/E.Mail-red?logo=mail&logoColor=red&style=for-the-badge" alt="mail"></a>
                 <!-- <img src="https://komarev.com/ghpvc/?username=ThierryRakotomanana&style=for-the-badge"> -->
             </div>
@@ -25,8 +25,11 @@
     </tr>
     <tr>
         <td>
-            <div id="stat" align="center">
-                [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana)](https://github.com/anuraghazra/github-readme-stats)
+             <div id="stat" align="center">
+                <h2> <img src="./fire.png" width="15"> Stat</h2>
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryRakotomanana&layout=compact&theme=dark">
+                </a>
             </div>
         </td>
         <td>
@@ -35,8 +38,6 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitgit-plain-wordmark.svg"alt="git" width="40"/>&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" />&nbsp;
-                <img src="./sublimetext-svgrepo-com.svg" width="40" alt="sublime-text">
             </div>
         </td>
     </tr>
