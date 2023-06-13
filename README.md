@@ -24,13 +24,10 @@
             </div>
     </tr>
     <tr>
-        <td>
-            <div align = "center">
-                <h2>Tools</h2>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitgit-plain-wordmark.svg"alt="git" width="40"/>&nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
-            </div>
-        </td>
+        <div align = "center">
+            <h2>Tools</h2>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
+        </div>
     </tr>
 </table>
