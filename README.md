@@ -13,7 +13,7 @@
             </div>
         </td>
         <td>
-            <h3 align = "center"> <img src="./tool.png " width="15" >Languages</h3>
+            <h3 align = "center">Languages</h3>
             <div id="tecno" align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" />&nbsp;
@@ -25,7 +25,6 @@
         <td>
             <div align = "center">
                 <h2>Tools</h2>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitgit-plain-wordmark.svg"alt="git" width="40"/>&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vs code" width="40" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" />&nbsp;
             </div>
