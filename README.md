@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, I'm Thierry! 👋</h1>
-![Beginners Friendly](https://img.shields.io/badge/Beginners-Friendly-green?style=for-the-badge&logo=appveyor)
 
 <table width = "600px" align="center">
     <tr>
@@ -27,12 +26,7 @@
     <tr>
         <td>
             <div id="stat" align="center">
-                <td>
-                [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryRakotomanana&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thierryrakotomanana&theme=highcontrast" alt="thierryrakotomanana" /></p>
+                [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana)](https://github.com/anuraghazra/github-readme-stats)
             </div>
         </td>
         <td>
