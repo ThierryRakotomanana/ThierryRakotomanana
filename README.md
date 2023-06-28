@@ -32,15 +32,16 @@
         </td>
     </tr>
 </table>
-<div align="center">
+<table align="center">
 </div>
-<div style="display:flex; gap: 20px; flex-wrap: wrap;">
-<div style="flex:1;">
+<tr>
+<td >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana&show_icons=true&theme=github_dark)
-</div>
-<div style="flex:1;">
+</td>
+<td>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThierryRakotomanana&theme=github_dark&card_width=497)](https://git.io/streak-stats)
-</div>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThierryRakotomanana&theme=github_dark_blue&card_width=497)](https://git.io/streak-stats)
+</td>
+</tr>
+</table>
