@@ -22,7 +22,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> &nbsp; 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40"/> &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40"/> &nbsp;
-            <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40"/>&nbsp;&nbsp;&nbsp; -->
             </div>
         <td>
             <div align = "center">
@@ -33,3 +32,15 @@
         </td>
     </tr>
 </table>
+<div align="center">
+</div>
+<div style="display:flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex:1;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana&show_icons=true&theme=github_dark)
+</div>
+<div style="flex:1;">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThierryRakotomanana&theme=github_dark&card_width=497)](https://git.io/streak-stats)
+</div>
+</div>
