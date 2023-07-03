@@ -2,7 +2,7 @@
 <p align="center">I am a software engineer who enjoys collaborating and contributing to open-source projects. Follow me if you're interested in progressing by collaborating with others on beginner-friendly projects. If any of these technologies interest you: HTML, CSS, JavaScript, Three.js, React, Next.js and Angular, then we are a perfect fit for working together. Let's join forces and create amazing things!
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThierryRakotomanana-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThierryRakotomanana&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table width = "600px" align="center">
     <tr>
