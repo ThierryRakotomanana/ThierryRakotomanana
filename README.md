@@ -37,11 +37,10 @@
 <tr>
 <td >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryRakotomanana&show_icons=true&theme=github_dark)
-</td>
-<td>
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThierryRakotomanana&theme=github_dark_blue&card_width=497)](https://git.io/streak-stats)
-</td>
-</tr>
-</table>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThierryRakotomanana&theme=algolia&border_radius=5&card_width=494)](https://git.io/streak-stats)
+
+</div>
