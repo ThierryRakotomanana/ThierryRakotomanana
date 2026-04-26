@@ -7,17 +7,18 @@
 </div>
 
 ---
-<h1 align="center"> Hi, I'm Thierry! 👋</h1>
-<p align="center">I am a software engineer who enjoys collaborating and contributing to open-source projects. Follow me if you're interested in progressing by collaborating with others on beginner-friendly projects. If any of these technologies interest you: HTML, CSS, JavaScript, Three.js, React, Next.js and Angular, then we are a perfect fit for working together. Let's join forces and create amazing things!
-</p>
-
----
 
 ## About Me
 
+Hi, I'm Thierry! 👋
+
+I believe code is better when it’s shared. I’m a dev who loves the full journey of creation, from crafting interfaces in React/Angular and Three.js to building backend systems with Go and Google Cloud.
+
+If you’re looking to grow through open source and hands-on teamwork, follow along, let’s join forces and create something amazing!
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=902FB6&width=435&lines=Thierry+Rakotomanana;Typescript+%7C+AI+ML+%7C+Google+Cloud+Platform+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=902FB6&width=435&lines=Thierry+Rakotomanana;Typescript+%7C+AI+ML+%7C+Google+Cloud+)](https://git.io/typing-svg)
 
 </div>
 
